@@ -1,0 +1,32 @@
+{
+  "name": "integer-to-ordinal",
+  "version": "1.0.0",
+  "description": "Transform a integer into a ordinal text. Current support integers: up to 999, locales: pt/BR , en/US",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Gustavo Kissel",
+    "email": "kisselgustavo@gmail.com",
+    "url": "https://github.com/gkissel"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/gkissel/to-ordinal",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.12.7",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
