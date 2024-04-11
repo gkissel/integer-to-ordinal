@@ -12,7 +12,13 @@
     "build": "tsup",
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": [
+    "ordinal",
+    "number",
+    "engilsh",
+    "portugues",
+    "numero"
+  ],
   "author": {
     "name": "Gustavo Kissel",
     "email": "kisselgustavo@gmail.com",

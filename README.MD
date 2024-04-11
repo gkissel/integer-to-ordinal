@@ -32,7 +32,3 @@ The function throws an error in the following cases:
 ## Returns
 
 The function returns a string which is the number in its ordinal form.
-
-```
-
-```
