@@ -19,7 +19,7 @@
     "url": "https://github.com/gkissel"
   },
   "license": "MIT",
-  "homepage": "https://github.com/gkissel/to-ordinal",
+  "homepage": "https://github.com/gkissel/integer-to-ordinal",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.12.7",
