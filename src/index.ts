@@ -16,7 +16,7 @@ interface toOrdinalProps {
     input,
     uppercase,
     language,
-  }: toOrdinalProps) {
+  }: toOrdinalProps): string {
     const l = language || 'en'
     const g = gender || 'o'
     const c = uppercase || false
